@@ -1,5 +1,5 @@
 <p align=center>
-    <img src="/XEROling.png" />
+    <img src="/Galacticai.png" />
 </p>
 <hr/>
 <hr/>
@@ -7,4 +7,4 @@
 
 ### Current active project:
 
-- #### [Commanders](https://github.com/XEROling/Commanders)
+- #### [Commanders](https://github.com/Galacticai/Commanders)
