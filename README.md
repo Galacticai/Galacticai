@@ -12,6 +12,8 @@
 <br/>
 <br/>
 
+---
+
 #### The meaning behind `Galacticai 0x7ff000...`
 > - `Galactic` (literally)
 > - `ai`: eye (literally) | artificial intelligence (AI) | treasuring (chinese)
