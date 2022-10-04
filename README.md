@@ -46,6 +46,8 @@
 ---
 
 #### Why Galacticai 0x7ff0..
-> - `Galactic` (literally)
-> - `ai`: eye (literally) | artificial intelligence (AI) | treasuring (chinese)
-> - `0x7ff000...`: short for `0x7ff0000000000000` which is the infinity representation of the `double` type
+> ● `Galactic` (literally)
+> <br/>
+> ● `ai`: eye (literally) | artificial intelligence (short) | treasuring (chinese)
+> <br/>
+> ● `0x7ff000...`: short for `0x7ff0000000000000` which is the infinity representation of the `double` type
