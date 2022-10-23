@@ -7,6 +7,7 @@
 ---
 
 [<img height=28 src="https://img.shields.io/badge/Active%20project%3A-Commanders-141541?style=flat-square&labelColor=f7d99b&color=141541" />](https://github.com/Galacticai/Commanders)
+> ##### Real-time strategy game 
 > <img src="https://img.shields.io/badge/-Targeting-gray" />
 > <img src="https://img.shields.io/badge/-Windows-white?logo=windows-11&logoColor=0078D4" />
 > <img src="https://img.shields.io/badge/-Linux-white?logo=linux&logoColor=806412" />
