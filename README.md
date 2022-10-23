@@ -21,7 +21,7 @@
 > <br/>
 > <br/>
 > <a href="https://www.codacy.com/gh/Galacticai/Commanders/dashboard" >
->     <img src="https://img.shields.io/codacy/grade/5c46c2f9d1aa42118fd39fca9a3ce381?logo=codacy&label=Codacity%20rating">
+>     <img src="https://img.shields.io/codacy/grade/5c46c2f9d1aa42118fd39fca9a3ce381?logo=codacy&label=Codacy%20rating">
 > </a>
 > <br/>
 > <a href="https://github.com/Galacticai/Commanders/contributors">
@@ -60,7 +60,9 @@
 
 ---
 
-#### The meaning behind `Galacticai 0x7ff000...`
-> - `Galactic` (literally)
-> - `ai`: eye (literally) | artificial intelligence (AI) | treasuring (chinese)
-> - `0x7ff000...`: short for `0x7ff0000000000000` which is the infinity representation of the `double` type
+#### Why Galacticai 0x7ff0..
+> ● `Galactic` (literally)
+> <br/>
+> ● `ai`: eye (literally) | artificial intelligence (short) | treasuring (chinese)
+> <br/>
+> ● `0x7ff000...`: short for `0x7ff0000000000000` which is the infinity representation of the `double` type
