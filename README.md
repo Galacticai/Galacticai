@@ -7,7 +7,9 @@
 ---
 
 ### [Commanders](https://github.com/Galacticai/Commanders)
-Real-time strategy game 
+Real-time strategy game
+> **Repository is currently __private__**
+>
 > <img src="https://img.shields.io/badge/-Targeting-gray" />
 > <img src="https://img.shields.io/badge/-Windows-white?logo=windows-11&logoColor=0078D4" />
 > <img src="https://img.shields.io/badge/-Linux-white?logo=linux&logoColor=806412" />
