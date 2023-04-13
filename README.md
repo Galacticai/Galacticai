@@ -30,7 +30,7 @@ Family of .NET libraries packed as nuget packages
 > </a>
 > <br/>
 > <img src="https://img.shields.io/badge/%C2%A9Galacticai-2023-white?link=https://github.com/Galacticai" />
-> <img src="https://img.shields.io/github/license/Galacticai/GalacticLib?label=&color=white&logo=gnu&logoColor=A42E2B">
+> <img src="https://img.shields.io/badge/-GPL--3.0-white?logo=gnu&logoColor=A42E2B">
 
 <br/>
 <br/>
