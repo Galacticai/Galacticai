@@ -14,7 +14,7 @@ Sophisticated screenshot utility for Linux and Windows
 > <img src="https://img.shields.io/badge/-Linux-white?logo=linux&logoColor=806412" />
 > <br/>
 > <img src="https://img.shields.io/badge/-Made%20with-gray" />
-> <img src="https://img.shields.io/badge/-GTK%23-white?logo=gtk&logoColor=7FE719" />
+> <img src="https://img.shields.io/badge/-GTK%23-white?logo=gtk&logoColor=5ba511" />
 > <img src="https://img.shields.io/badge/-C%23-white?logo=dotnet&logoColor=512BD4" />
 > <br/>
 > <img src="https://img.shields.io/badge/%C2%A92023-Galacticai-white?link=https://github.com/Galacticai" />
