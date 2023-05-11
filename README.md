@@ -6,7 +6,7 @@
 
 ---
 
-### [GalacticLib](https://github.com/Galacticai/GalacticLib)
+### [GalacticLib](https://Galacticai.github.io/GalacticLib)
 Family of .NET libraries packed as nuget packages
 > <a href="#"> 
 >     <img src="https://img.shields.io/badge/-Supporting-gray" />
