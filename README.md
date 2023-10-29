@@ -1,13 +1,16 @@
 <p align=center>
     <img width=960 src="/Galacticai.png" />
-    <br/>
+    <br/><br/>
     Developer & Designer
+    <br/><br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galacticai&layout=compact&theme=tokyonight" />
 </p>
 
 ---
+# Highlight
 
-### [GalacticLib](https://Galacticai.github.io/GalacticLib.Complete)
-Family of .NET libraries packed as nuget packages
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=galacticai&repo=GalacticLib.Complete&theme=tokyonight" alt="GalacticLib" />
+
 > <a href="#"> 
 >     <img src="https://img.shields.io/badge/-Supporting-gray" />
 >     <img src="https://img.shields.io/badge/.NET-7-0078D4?labelColor=512BD4" />
