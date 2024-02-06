@@ -33,4 +33,4 @@ Summary: Creation light
 <br/>
 • `ai`: eye
 <br/>
-• `0x7ff000...`: short for `0x7ff0000000000000` which is the infinity representation 
+• `0x7ff000...`: short for `0x7ff0000000000000` which is a representation of 64bit floating point infinity
