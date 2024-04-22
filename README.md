@@ -9,11 +9,11 @@
 ---
 # Highlight
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=galacticai&repo=GalacticLib.Complete&theme=tokyonight" alt="GalacticLib" />
+[![GalacticLib](https://github-readme-stats.vercel.app/api/pin/?username=galacticai&repo=GalacticLib.Complete&theme=tokyonight)](https://github.com/galacticai/GalacticLib.Complete)
 
 # Currently active:
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=galacticai&repo=sessionless&theme=tokyonight" alt="Sessionless" />
+[![Sessionless](https://github-readme-stats.vercel.app/api/pin/?username=galacticai&repo=sessionless&theme=tokyonight)](https://github.com/galacticai/sessionless)
 
 > <a href="#"> 
 >     <img src="https://img.shields.io/badge/-Supporting-gray" />
