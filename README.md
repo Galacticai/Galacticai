@@ -11,7 +11,7 @@
 
 [![GalacticLib](https://github-readme-stats.vercel.app/api/pin/?username=galacticai&repo=GalacticLib.Complete&theme=tokyonight)](https://github.com/galacticai/GalacticLib.Complete)
 
-# Currently active:
+# Active
 
 [![Sessionless](https://github-readme-stats.vercel.app/api/pin/?username=galacticai&repo=sessionless&theme=tokyonight)](https://github.com/galacticai/sessionless)
 
