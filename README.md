@@ -18,7 +18,7 @@
 >     <img src="https://img.shields.io/badge/-Linux-white?logo=linux&logoColor=111111" />
 > </a>
 > <br/>
-> <img src="https://img.shields.io/badge/%C2%A9Galacticai-2023-white?link=https://github.com/Galacticai" />
+> <img src="https://img.shields.io/badge/%C2%A9Galacticai-2024-white?link=https://github.com/Galacticai" />
 > <img src="https://img.shields.io/badge/-GPL--3.0-white?logo=gnu&logoColor=A42E2B">
 
 # Active
