@@ -31,8 +31,8 @@
 ---
 
 #### Why Galacticai 0x7ff0..
-• `Galactic`: creation
+• `Galactic`
 <br/>
-• `ai`: light (eye)
+• `ai`: eye (light)
 <br/>
-• `0x7ff000...`: short for `0x7ff0000000000000` which is a representation of 64bit floating point infinity
+• `0x7ff000...`: infinity (`0x7ff0000000000000`)
