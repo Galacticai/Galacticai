@@ -1,4 +1,4 @@
-8l<p align=center>
+<p align=center>
     <img width=960 src="/Galacticai.png" />
     <br/><br/>
     Developer & Designer
