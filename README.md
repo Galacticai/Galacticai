@@ -13,7 +13,7 @@
 
 > <a href="#"> 
 >     <img src="https://img.shields.io/badge/-Supporting-gray" />
->     <img src="https://img.shields.io/badge/.NET-7-0078D4?labelColor=512BD4" />
+>     <img src="https://img.shields.io/badge/.NET-5%7e8-0078D4?labelColor=512BD4" />
 >     <img src="https://img.shields.io/badge/-Windows-white?logo=windows-11&logoColor=0078D4" />
 >     <img src="https://img.shields.io/badge/-Linux-white?logo=linux&logoColor=111111" />
 > </a>
