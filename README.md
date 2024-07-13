@@ -1,5 +1,5 @@
 <p align=center>
-    <img width=960 src="/Galacticai.png" />
+    <img width=960 src="/Galacticai.14-7-2024.png" />
     <br/><br/>
     Developer & Designer
     <br/><br/><br/>
@@ -7,6 +7,7 @@
 </p>
 
 ---
+
 # Highlight
 
 [![GalacticLib](https://github-readme-stats.vercel.app/api/pin/?username=galacticai&repo=GalacticLib.Complete&theme=tokyonight)](https://github.com/galacticai/GalacticLib.Complete)
@@ -31,6 +32,7 @@
 ---
 
 #### Why Galacticai 0x7ff0..
+
 • `Galactic`
 <br/>
 • `ai`: eye (light)
