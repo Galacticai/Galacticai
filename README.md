@@ -1,6 +1,8 @@
 <p align=center>
     <img width=960 src="/Galacticai.14-7-2024.png" />
     <br/><br/>
+    (Galactic eye)
+    <br/>
     Developer & Designer
     <br/><br/><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galacticai&layout=compact&theme=tokyonight" />
