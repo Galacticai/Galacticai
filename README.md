@@ -24,7 +24,7 @@
 > <img src="https://img.shields.io/badge/%C2%A9Galacticai-2024-white?link=https://github.com/Galacticai" />
 > <img src="https://img.shields.io/badge/-GPL--3.0-white?logo=gnu&logoColor=A42E2B">
 
-# Active
+---
 
 [![Sessionless](https://github-readme-stats.vercel.app/api/pin/?username=galacticai&repo=sessionless&theme=tokyonight)](https://github.com/galacticai/sessionless)
 
