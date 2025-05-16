@@ -37,6 +37,6 @@
 
 • `Galactic`
 <br/>
-• `ai`: eye (light)
+• `ai`: eye (light) - _NOT artificial intelligence_
 <br/>
 • `0x7ff000...`: infinity (`0x7ff0000000000000`)
