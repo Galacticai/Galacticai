@@ -30,7 +30,7 @@
 
 > <a href="#"> 
 >     <img src="https://img.shields.io/badge/-Supporting-gray" />
->     <img src="https://img.shields.io/badge/node-2022-66cc33?labelColor=336633" />
+>     <img src="https://img.shields.io/badge/node-2022+-66cc33?labelColor=336633" />
 >     <img src="https://img.shields.io/badge/-Linux-white?logo=linux&logoColor=111111" />
 > </a>
 > <br/>
