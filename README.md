@@ -26,6 +26,19 @@
 
 ---
 
+[![UNWIND](https://github-readme-stats.vercel.app/api/pin/?username=galacticai&repo=UNWIND&theme=tokyonight)](https://github.com/galacticai/UNWIND)
+
+> <a href="#"> 
+>     <img src="https://img.shields.io/badge/-Supporting-gray" />
+>     <img src="https://img.shields.io/badge/node-2022-66cc33?labelColor=336633" />
+>     <img src="https://img.shields.io/badge/-Linux-white?logo=linux&logoColor=111111" />
+> </a>
+> <br/>
+> <img src="https://img.shields.io/badge/%C2%A9Galacticai-2025-white?link=https://github.com/Galacticai" />
+> <img src="https://img.shields.io/badge/-GPL--3.0-white?logo=gnu&logoColor=A42E2B">
+
+---
+
 [![Sessionless](https://github-readme-stats.vercel.app/api/pin/?username=galacticai&repo=sessionless&theme=tokyonight)](https://github.com/galacticai/sessionless)
 
 <br/>
