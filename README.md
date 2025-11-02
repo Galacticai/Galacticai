@@ -1,11 +1,13 @@
 <p align=center>
     <img width=960 src="/Galacticai.14-7-2024.png" />
     <br/><br/>
-    (Galactic eye)
+    <b>(Galactic eye)</b>
     <br/>
-    Developer & Designer
-    <br/><br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galacticai&layout=compact&theme=tokyonight" />
+    <b>Developer & Designer</b>
+    <br/><br/>
+    <b>C# | Kotlin | TS</b>
+    <br/>
+    <i>Dart <b>|</b> shadergraph <b>|</b> sql/nosql <b>|</b> and unfortunately: php, js</i> …
 </p>
 
 ---
